@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1671380565 source:d:\tugas\praktikum semester 3\mod13\graf.cpp
+	"graf.h"
+
+1671380467 d:\tugas\praktikum semester 3\mod13\graf.h
+	<iostream>
+
+1671380514 source:d:\tugas\praktikum semester 3\mod13\main.cpp
+	<iostream>
+	"graf.h"
+
